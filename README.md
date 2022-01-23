@@ -7,7 +7,7 @@ I'm MJ.
 
 ## 🤔 What I'm Up To
 - :trollface: Trying to actually make this place presentable :joy:
-- :chart_with_upwards_trend: Working on a couple of SaaS applications
+- :chart_with_upwards_trend: Working on a couple of SaaS projects
 - 👯 I'm keen on collaborating with other devs to create some cool projects!
 
 
